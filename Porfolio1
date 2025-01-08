@@ -1,0 +1,8 @@
+<script>start("c:\\Users\\deepi\\Desktop\\HTML\\Porfolio1\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow(".git",".git",1,0,"0 B",1736333361,"1/8/25, 4:19:21 PM");</script>
+<script>addRow("deepika.jpg","deepika.jpg",0,92851,"90.7 kB",1726750117,"9/19/24, 6:18:37 PM");</script>
+<script>addRow("deps.jpg","deps.jpg",0,200767,"196 kB",1718817949,"6/19/24, 10:55:49 PM");</script>
+<script>addRow("index.html","index.html",0,19198,"18.7 kB",1736331994,"1/8/25, 3:56:34 PM");</script>
+<script>addRow("script.js","script.js",0,2181,"2.1 kB",1718815069,"6/19/24, 10:07:49 PM");</script>
+<script>addRow("style.css","style.css",0,12965,"12.7 kB",1736332122,"1/8/25, 3:58:42 PM");</script>
