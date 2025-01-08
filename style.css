@@ -98,7 +98,7 @@ h1:hover{
     align-items: center;
 }
 .home-img img {
-    width: 30vw;
+    width: 40vw;
     height: 70vh;
     animation: floatImage 4s ease-in-out infinite;
 }
